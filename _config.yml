@@ -21,8 +21,7 @@ timezone: Europe/Berlin
 
 title: LBenno Projects                          # the main title
 
-tagline: Lauren's site for coding projects and progress updates
-/#SkateOrDie    # it will display as the sub-title
+tagline: Lauren's site for coding projects and progress updates   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Site for Lauren's projects and progress updates.
