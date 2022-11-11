@@ -13,7 +13,9 @@ It was confusing and required a lot of troubleshooting, but when it all actually
 
 ## My first code 
 
-```html
+<div>
+
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -25,11 +27,14 @@ It was confusing and required a lot of troubleshooting, but when it all actually
 </body>
 </html>
 ```
+
+</div>
+
 {% assign table_heading = 'Screenshot of my first deployment' %}
 
 |         {{ table_heading }}        | 
 |:--------------:| :----------------:| 
-| ![dev image](https://github.com/lbenno/lbenno.github.io/blob/assets/img/task-manager.png?raw=true) |
+| ![dev image](https://github.com/lbenno/lbenno.github.io/blob/main/assets/img/task-manager.png?raw=true) |
 
 
 ## My observations
