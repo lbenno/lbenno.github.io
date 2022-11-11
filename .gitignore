@@ -9,6 +9,9 @@
 !.versionrc.json
 !.stylelintrc.json
 
+# directories
+env/
+
 # bundler cache
 _site
 vendor
