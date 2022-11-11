@@ -29,7 +29,7 @@ tail_includes:
                                    Publish events, offer tickets for sale, generate interactive attendee list
                                    </p>
                             </div>
-                            <img src="https://github.com/lbenno.github.io/blob/main/assets/img/ticket-app.png" >
+                            <img src="https://github.com/lbenno/lbenno.github.io/blob/main/assets/img/ticket-app.png?raw=true">
                      </div>
               </div>
               <div class="card">
@@ -46,25 +46,9 @@ tail_includes:
                                    Publish events, offer tickets for sale, and generate attendee list
                                    </p>
                             </div>
-                            <img src="https://github.com/lbenno/lbenno.github.io/blob/main/assets/img/task-manager.png" >
+                            <img src="https://github.com/lbenno/lbenno.github.io/blob/main/assets/img/task-manager.png?raw=true">
                      </div>
                      </a>
               </div>
        </div> <!-- .card-deck -->
 </div> <!-- #related-posts -->
-
----------------------------------------------
-<!-- test iframe successful in dev enviro --> 
-<iframe src="https://benno-task-manager.herokuapp.com" href="https://benno-task-manager.herokuapp.com"  width="275" height="400" title="Task Manager iFrame" style="border:2px solid black; border-radius: 3%;"></iframe>
-
-
---------------------
-<!-- test image for the PROD enviro --> 
-![prod image 2](https://github.com/lbenno/lbenno.github.io/blob/main/assets/img/task-manager.png?raw=true)
-
-<!-- test image for the PROD enviro --> 
-![relative link to image](/assets/img/task-manager.png){: width="97" height="59" }
-
-
-<!-- test image successful in dev enviro --> 
-![dev image](http://127.0.0.1:4000/lbenno.github.io/assets/img/task-manager.png?raw=true){: width="97" height="59" }

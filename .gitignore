@@ -8,6 +8,7 @@
 !.commitlintrc.json
 !.versionrc.json
 !.stylelintrc.json
+_posts/_dev-test.md
 
 # directories
 env/

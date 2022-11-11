@@ -9,13 +9,11 @@ tags: [gitHubPages, gitHub, git, learning curve, project]
 
 + Setup `GitHub` and `GitHubPages` accounts, and created my first `Repo` 
 + Deployed a basic `.html` file using `git` commands from a `VSCode` integrated `Terminal`. 
-It was confusing and required a lot of troubleshooting, but when it all actually worked.... well excited is an understatement.  Honestly I was really proud and it felt like christening the beginning of a long and rewarding journey :blush:
+It was confusing and required a lot of troubleshooting, but when it all actually worked.... well excited is an understatement.  Honestly I was really proud and it felt like christening the beginning of a long and rewarding journey 😊
 
 ## My first code 
 
-<div>
-
-```
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -27,8 +25,6 @@ It was confusing and required a lot of troubleshooting, but when it all actually
 </body>
 </html>
 ```
-
-</div>
 
 {% assign table_heading = 'Screenshot of my first deployment' %}
 
