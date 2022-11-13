@@ -26,6 +26,7 @@ It was confusing and required a lot of troubleshooting, but when it all actually
 </html>
 ```
 
+
 {% assign table_heading = 'Screenshot of my first deployment' %}
 
 |         {{ table_heading }}        | 
