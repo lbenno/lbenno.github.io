@@ -43,7 +43,7 @@ tail_includes:
                             </div>
                             <div class="text-muted small">
                                    <p>
-                                   Publish events, offer tickets for sale, and generate attendee list
+                                   Simple interface to display, add, edit and delete tasks from a database 
                                    </p>
                             </div>
                             <img src="https://github.com/lbenno/lbenno.github.io/blob/main/assets/img/task-manager.png?raw=true">

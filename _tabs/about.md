@@ -4,14 +4,17 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-My name is Lauren Benson.  I am Senior Operations Manager at Elinvar GmbH, a FinTech start-up in Berlin, Germany.  I am expanding on my skillset (business analysis, process improvement, project management) by learniing backend development.
+My name is Lauren Benson.  I'm Senior Operations Manager at Elinvar GmbH, a FinTech start-up in Berlin, Germany.  
+
+I am expanding on my current skillset of operational mamagement, business analysis, process improvement, and project management by learning backend development.
 
 
-My focus is data analysis and visualisation, proces automation, and projects I can apply in daily life: 
+My focus is on projects incorporating data analysis and visualisation, process automation, and other projects that I can apply in my personal and professional life. 
 
-`python`    [ `Flask`, `Django`, `Pandas` ]
+## Languages / Frameworks / Libraries
 
-`sql`    
 
-`html`      [ `markdown` ]
+| `python`   | `Flask`, `Django`, `Pandas`  |
+| `sql`      |  `joins`, `CTE`, `window functions` |
+| `html`     |  `markdown`, `Jekyll` |  
 
