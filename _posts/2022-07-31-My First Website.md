@@ -13,9 +13,8 @@ It was confusing and required a lot of troubleshooting, but when it all actually
 
 ## My first code 
 
-<div>
 
-```html
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -28,14 +27,14 @@ It was confusing and required a lot of troubleshooting, but when it all actually
 </html>
 ```
 
-</div>
-
+<div>
 {% assign table_heading = 'Screenshot of my first deployment' %}
 
 |         {{ table_heading }}        | 
 |:--------------:| :----------------:| 
 | ![dev image](https://github.com/lbenno/lbenno.github.io/blob/main/assets/img/task-manager.png?raw=true) |
 
+</div>
 
 ## My observations
 From my colleagues and friends, and content creators, I took away some observations regarding how to get started in development and data science: 
