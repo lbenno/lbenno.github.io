@@ -13,6 +13,8 @@ It was confusing and required a lot of troubleshooting, but when it all actually
 
 ## My first code 
 
+<div>
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -26,6 +28,7 @@ It was confusing and required a lot of troubleshooting, but when it all actually
 </html>
 ```
 
+</div>
 
 {% assign table_heading = 'Screenshot of my first deployment' %}
 
