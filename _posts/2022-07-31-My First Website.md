@@ -9,12 +9,13 @@ tags: [gitHubPages, gitHub, git, learning curve, project]
 
 + Setup `GitHub` and `GitHubPages` accounts, and created my first `Repo` 
 + Deployed a basic `.html` file using `git` commands from a `VSCode` integrated `Terminal`. 
-It was confusing and required a lot of troubleshooting, but when it all actually worked.... well excited is an understatement.  Honestly I was really proud and it felt like christening the beginning of a long and rewarding journey 😊
+It was confusing and required a lot of troubleshooting, but when it actually worked it was very exciting 😊
++ After that, I followed a Flask tutorial and deployed my first working web application: a task manager
 
 ## My first code 
 
 
-```
+```html  {% raw %}
 <!DOCTYPE html>
 <html>
 <body>
@@ -25,16 +26,19 @@ It was confusing and required a lot of troubleshooting, but when it all actually
     <h2>#skateordie</h2>
 </body>
 </html>
-```
+```  
+{% endraw %} 
 
-<div>
+
+## My first working application 
+
 {% assign table_heading = 'Screenshot of my first deployment' %}
 
 |         {{ table_heading }}        | 
 |:--------------:| :----------------:| 
 | ![dev image](https://github.com/lbenno/lbenno.github.io/blob/main/assets/img/task-manager.png?raw=true) |
 
-</div>
+
 
 ## My observations
 From my colleagues and friends, and content creators, I took away some observations regarding how to get started in development and data science: 
