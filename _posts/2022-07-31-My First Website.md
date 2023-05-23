@@ -15,8 +15,8 @@ It was confusing and required a lot of troubleshooting, but when it actually wor
 ## My first code 
 
 
-```html  {% raw %}
-<!DOCTYPE html>
+```html
+<!-- <!DOCTYPE html>
 <html>
 <body>
     <h1>hello World</h1>
@@ -25,9 +25,8 @@ It was confusing and required a lot of troubleshooting, but when it actually wor
         Have a great day :-).</p>
     <h2>#skateordie</h2>
 </body>
-</html>
+</html> -->
 ```  
-{% endraw %} 
 
 
 ## My first working application 
