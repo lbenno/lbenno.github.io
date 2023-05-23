@@ -1,6 +1,7 @@
 # hidden files
 .*
 !.git*
+!.ruby-version
 !.editorconfig
 !.nojekyll
 !.travis.yml
